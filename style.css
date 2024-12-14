@@ -1,0 +1,33 @@
+.hero-section{
+
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxsn2MVC3CnpfO0o82aaLK0ePVJlnO6Af9pg&s) no-repeat center ;
+    background-size: cover;
+    height:600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgb(177, 40, 40);
+    text-shadow:2px 2px 5px rgba(0,0,0,0.7);
+    font-size: 50px;
+}
+.service-card img{
+    height:150px;
+    object-fit: cover;
+}
+.testimonial{
+background-color: white;
+padding:50px 20px;
+}
+.footer{
+    background-color: rgb(136, 127, 255);
+    color:white;
+    padding:40px 0;
+    text-align: center;
+}
+.footer a{
+    color:yellow;
+    text-decoration: none;
+}
+
+
+
